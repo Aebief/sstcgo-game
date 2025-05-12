@@ -1,4 +1,4 @@
-# SSTCGO - Super Sentai Trading Card Game Online  
+# SSTCGO - Saint Seiya Trading Card Game Online  
 
 Implementación en Godot (C#) y Node.js (gRPC) de un TCG multijugador inspirado en Saint Seiya.  
 Incluye:  
